@@ -1,2 +1,3 @@
 # Js-Exercise
- JavaScript practise question and solution
+
+JavaScript practise question and solution
