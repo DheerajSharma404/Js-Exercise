@@ -5,7 +5,7 @@
 //*********Solution********
 
 const clacTime = (sec /*Time in sec*/) => {
-   let min = parseInt(sec / 60);
+   let min = Math.floor(sec / 60); //
    min = min < 10 ? "0" + min : min;
    let second = parseInt(sec % 60);
    second = second < 10 ? "0" + second : second;
