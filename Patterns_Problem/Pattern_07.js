@@ -1,4 +1,4 @@
-//* Pattern_01:- Given a value n (positive integer), print th following pattern on the screen.
+//* Pattern_07:- Given a value n (positive integer), print th following pattern on the screen.
 
 //* n is always going to be odd number
 

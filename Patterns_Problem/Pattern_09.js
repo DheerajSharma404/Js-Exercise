@@ -1,4 +1,4 @@
-//* Pattern_01:- Given a value n (positive integer), print th following pattern on the screen.
+//* Pattern_09:- Given a value n (positive integer), print th following pattern on the screen.
 
 //* One kind of diamond Shape
 

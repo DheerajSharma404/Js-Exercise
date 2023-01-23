@@ -1,4 +1,4 @@
-//* Pattern_01:- Given a value n (positive integer), print th following pattern on the screen.
+//* Pattern_02:- Given a value n (positive integer), print th following pattern on the screen.
 
 //*   For n = 3
 
