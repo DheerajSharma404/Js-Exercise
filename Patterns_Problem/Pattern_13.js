@@ -1,4 +1,32 @@
-//* Pattern_13:- Given a value n (positive integer), print th following pattern on the screen.
+//* Pattern_13:- Given a value n (positive integer), print the following pattern on the screen.
+
+//*   For n = 5
+
+//*  1
+//*  01
+//*  101
+//*  0101
+
+//*  For n = 7
+
+//*  1
+//*  01
+//*  101
+//*  0101
+//*  10101
+//*  010101
+
+//*  For n = 10
+
+//*  1
+//*  01
+//*  101
+//*  0101
+//*  10101
+//*  010101
+//*  1010101
+//*  01010101
+//*  101010101
 
 //*********Solution********
 
@@ -15,3 +43,7 @@ const pattern = (n) => {
   }
 };
 pattern(5);
+console.log("");
+pattern(7);
+console.log("");
+pattern(10);
