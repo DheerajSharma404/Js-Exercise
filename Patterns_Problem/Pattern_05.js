@@ -18,7 +18,7 @@
 //*********Solution********
 
 const pattern = (n) => {
-  for (let rows = 0; rows <= n; rows += 1) {
+  for (let rows = 1; rows <= n; rows += 1) {
     let str = "";
     for (let col = n; col >= rows; col -= 1) {
       str += "*";
