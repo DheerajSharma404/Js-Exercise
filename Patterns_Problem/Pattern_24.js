@@ -32,7 +32,7 @@ const pattern = (n) => {
       let left = col;
       let right = 2 * n - 2 - col;
       let bottom = 2 * n - 2 - rows;
-      str += n - Math.min(Math.min(top, left), Math.min(right, bottom)) + " ";
+      str += n - Math.min(Math.min(top, left, right, bottom)) + " ";
     }
     console.log(str);
   }
